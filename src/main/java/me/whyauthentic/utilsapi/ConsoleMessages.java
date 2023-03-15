@@ -15,8 +15,12 @@ public class ConsoleMessages {
         System.out.println(ConsoleColors.RED_BOLD + "[ERROR] " + message + ConsoleColors.RESET);
     }
 
-    public static void UPDATE (String message) {
-        System.out.println(ConsoleColors.YELLOW_BOLD + "[UPDATE] " + message + ConsoleColors.RESET);
-    }
+   public static void WARNING (String message) {
+        System.out.println(ConsoleColors.YELLOW_BOLD + "[WARNING] " + message + ConsoleColors.RESET);
+   }
+
+   public static void DEBUG (String message) {
+        System.out.println(ConsoleColors.PURPLE_BOLD + "[DEBUG] " + message + ConsoleColors.RESET);
+   }
 
 }
