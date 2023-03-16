@@ -4,4 +4,4 @@
 <hr>
 <h3 align="center">Just another Java Utils API<h3>
     
-<p>This Utils API is mainly written for me and my Friend :) Im learing in Java Code if you find Errors contact me.</p>
+<h4>This Utils API is mainly written for me and my Friend :) Im learing in Java Code if you find Errors contact me.</h4>
