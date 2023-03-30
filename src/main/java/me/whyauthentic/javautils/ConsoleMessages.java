@@ -1,4 +1,4 @@
-package me.whyauthentic.utilsapi;
+package me.whyauthentic.javautils;
 
 
 public class ConsoleMessages {
