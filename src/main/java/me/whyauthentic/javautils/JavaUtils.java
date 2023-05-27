@@ -1,6 +1,7 @@
 package me.whyauthentic.javautils;
 
-public class JavaUtils {
+import java.io.IOException;
 
+public class JavaUtils {
 
 }
