@@ -1,6 +1,6 @@
 package me.whyauthentic.javautils;
 
-public class ConsoleColors {
+public class AnsiColors {
 
 
 // Reset
