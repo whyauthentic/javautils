@@ -6,8 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="utilsapi" />
+        <module name="javautils" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="utilsapi" target="19" />
+    </bytecodeTargetLevel>
   </component>
 </project>
