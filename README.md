@@ -8,4 +8,22 @@
 
 [![](https://jitpack.io/v/whyauthentic/javautils.svg)](https://jitpack.io/#whyauthentic/javautils)
 
-
+<h4> Step 1: Adding Jitpack as Repository
+    
+```xml
+    <repositories>
+	    <repository>
+	     <id>jitpack.io</id>
+	     <url>https://jitpack.io</url>
+	    </repository>
+    </repositories>
+```
+<h4> Step 2: Adding the Dependency on newest Version
+    
+```xml
+    <dependency>
+	    <groupId>com.github.whyauthentic</groupId>
+	    <artifactId>javautils</artifactId>
+	    <version>Tag</version>
+    </dependency>
+```
